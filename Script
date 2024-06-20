@@ -1,0 +1,4 @@
+! pip install streamlit -q
+!wget -q -O - ipv4.icanhazip.com
+##### run the streamlit app ####
+!streamlit run neural_style_transfer.py & npx localtunnel --port 8501
